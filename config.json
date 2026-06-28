@@ -1,5 +1,5 @@
 {
-  "Author": "SHAHADAT SAHU",
+  "Author": "Bijoy SAHU",
   "version": "2.0.0",
   "language": "en",
   "DeveloperMode": false,
@@ -17,8 +17,8 @@
 
   "ADMINBOT": [
     "61583543981977",
-    "61586663640809",
-    "100044713412032"
+    "",
+    ""
   ],
   "NDH": ["100044713412032"],
   "adminOnly": false,
